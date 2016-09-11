@@ -34,7 +34,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-hateoas')
 	compile('io.zipkin.java:zipkin-server')
 	runtime('com.h2database:h2')
-  runtime('io.zipkin.java:zipkin-ui')
+        runtime('io.zipkin.java:zipkin-autoconfigure-ui')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 

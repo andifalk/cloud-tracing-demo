@@ -1,2 +1,2 @@
-include 'client', 'config-server', 'eureka-server', 'hello1', 'hello2', 'hystrix dashboard', 'turbine-server',
+include 'client', 'config-server', 'eureka-server', 'hello1', 'hello2', 'hystrix-dashboard', 'turbine-server',
         'zipkin-server'
